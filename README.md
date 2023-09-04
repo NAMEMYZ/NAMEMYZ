@@ -5,7 +5,7 @@
 - 📫 How to reach me.
 - FB : Chawanakorn Sangsavang
 - ID Line : namemylnwza
-- IG : _namemyz_
+- IG : (underscore)namemyz(underscore)
 
 <!---
 NAMEMYZ/NAMEMYZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
