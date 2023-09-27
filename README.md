@@ -6,6 +6,7 @@
 - FB : Chawanakorn Sangsavang
 - ID Line : namemylnwza
 - IG : (underscore)namemyz(underscore)
+- EMAIL : chawanakornname@gmail.com
 
 <!---
 NAMEMYZ/NAMEMYZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
