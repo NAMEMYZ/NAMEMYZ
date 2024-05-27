@@ -5,7 +5,7 @@
 - 📫 How to reach me.
 - FB : Chawanakorn Sangsavang
 - ID Line : namemylnwza
-- IG : (underscore)namemyz(underscore)
+- IG : namemyzzz
 - EMAIL : chawanakornname@gmail.com
 
 <!---
